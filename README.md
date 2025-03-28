@@ -1,5 +1,8 @@
 <!-- 简介与欢迎语 -->
 <div align="center">
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=🚀+Build+Something+Amazing!;💡+Stay+Curious+Keep+Learning" alt="动态打字效果" /> 
+</div> 
   <h1>👋 你好，我是初衷</h1>
   <p>
     🚀 全栈开发者 | 📍 河南 | 💻 技术爱好者<br>
@@ -46,3 +49,9 @@
 ### 📈 编码动态
 ```text
 📅 每日代码贡献日历（自动更新）
+```
+
+<!-- 趣味元素 -->
+
+
+
