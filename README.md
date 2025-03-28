@@ -1,15 +1,14 @@
 <!-- 简介与欢迎语 -->
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=🚀+Build+Something+Amazing!;💡+Stay+Curious+Keep+Learning" alt="动态打字效果" /> 
-</div> 
-  <!-- 动态头部（HTML+CSS动画） -->
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3FBF&width=435&lines=Hello+World!;Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="动态标题" />
-  <br>
-
+<!-- 愿景驱动的动态标题（支持多段落动画） -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=800&color=7F3FBF&width=780&height=80&lines=%F0%9F%92%A1+Empowering+the+Future+with+Intelligent+Systems;%F0%9F%93%9A+Building+Scalable+AI+Infrastructure+for+Everyone;%F0%9F%9A%80+Pioneering+in+Cloud-Native+Machine+Learning;%E2%9C%A8+From+Code+to+Impact++%E2%80%94++Where+Algorithms+Meet+Reality;%F0%9F%8E%89+Open+Source++%7C++Community++%7C++Excellence++%7C++Innovation" alt="愿景动态标题"/>
 </div>
-
+<!-- 完整版动态愿景（含多行动画效果） -->
+<details>
+<summary>✨ 点击展开我的成就徽章</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=ccxyChuzhong&theme=onedark&row=1&column=8&margin-w=15&margin-h=15" alt="成就徽章"/> 
+</details>
   <h1>👋 你好，我是初衷</h1>
     <img src="https://komarev.com/ghpvc/?username=ccxyChuzhong&label=Profile+Views&color=blueviolet&style=flat" alt="访问量统计" /> 
   <a href="https://github.com/ccxyChuzhong?tab=repositories"><img src="https://badges.strrl.dev/repos/ccxyChuzhong?color=007ec6&style=flat" alt="仓库数量"/></a>
@@ -17,7 +16,6 @@
     🚀 全栈开发者 | 📍 河南 | 💻 技术爱好者<br>
     🔭 正在探索：AI工程化 | 🌱 学习领域：Java、GoLang、Python、Rust语言 | ⚡ 兴趣：开源协作与自动化工具 
   </p>
-</div>
 
 ---
 
@@ -48,7 +46,7 @@
 
 ### 🌟 精选项目
 <!-- 项目展示（带技术栈图标） -->
-#### [🔗 书签管理器]([https://github.com/your/project1](https://github.com/ccxyChuzhong/Bookmark-Inspector))
+#### [🔗 书签管理器](https://github.com/ccxyChuzhong/Bookmark-Inspector)
 ![javascript](https://img.shields.io/badge/-javascript-3776AB?logo=javascript&logoColor=white)
 > 🚀一款专注于书签健康管理的浏览器扩展，提供智能检测、批量操作与跨设备同步能力。
 
