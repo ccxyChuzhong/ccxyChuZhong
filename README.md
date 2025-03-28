@@ -3,10 +3,19 @@
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=🚀+Build+Something+Amazing!;💡+Stay+Curious+Keep+Learning" alt="动态打字效果" /> 
 </div> 
+  <!-- 动态头部（HTML+CSS动画） -->
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3FBF&width=435&lines=Hello+World!;Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="动态标题" />
+  <br>
+
+</div>
+
   <h1>👋 你好，我是初衷</h1>
+    <img src="https://komarev.com/ghpvc/?username=ccxyChuzhong&label=Profile+Views&color=blueviolet&style=flat" alt="访问量统计" /> 
+  <a href="https://github.com/ccxyChuzhong?tab=repositories"><img src="https://badges.strrl.dev/repos/ccxyChuzhong?color=007ec6&style=flat" alt="仓库数量"/></a>
   <p>
     🚀 全栈开发者 | 📍 河南 | 💻 技术爱好者<br>
-    🔭 正在探索：AI工程化 | 🌱 学习领域：Java、GoLang、Python、Rust语言 | ⚡ 兴趣：开源协作与自动化工具
+    🔭 正在探索：AI工程化 | 🌱 学习领域：Java、GoLang、Python、Rust语言 | ⚡ 兴趣：开源协作与自动化工具 
   </p>
 </div>
 
@@ -14,11 +23,16 @@
 
 <!-- 动态统计卡片（引用github-readme-stats） -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ccxyChuZhong&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,161b22" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccxyChuZhong&layout=compact&theme=radical&hide_border=true&bg_color=30,0d1117,161b22" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccxyChuzhong&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccxyChuzhong&layout=compact&langs_count=8&theme=nightowl&border_radius=15"/>
 </div>
 
 ---
+### 🛠️ 技术全景图
+<!-- 动态技能云（引用skill-icons.dev） -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,ts,react,nextjs,nodejs,aws,gcp,docker,kubernetes,redis,postgres,nginx,git,githubactions&perline=32" alt="技能图标云"/>
+</div>
 
 ### 🛠️ 技术栈
 <!-- 技能徽章（通过shields.io生成） -->
@@ -44,14 +58,10 @@
 > 🎇跨端同步订阅。一键导入、一键导出！
 
 ---
-
-<!-- 贡献日历（自动生成） -->
-### 📈 编码动态
-```text
-📅 每日代码贡献日历（自动更新）
-```
-
-<!-- 趣味元素 -->
-
+### 🏆 成就殿堂
+<!-- GitHub成就徽章（引用github-profile-trophy） --> 
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ccxyChuzhong&theme=onedark&row=1&column=8&margin-w=15&margin-h=15" alt="成就徽章"/> 
+</div>
 
 
