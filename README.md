@@ -51,3 +51,13 @@
 ![Dart](https://img.shields.io/badge/-Dart-61DAFB?logo=dart&logoColor=black)
 ![WebDav](https://img.shields.io/badge/-WebDav-010101?logo=WebDav)
 ### 🎇跨端同步订阅。一键导入、一键导出！
+
+### [🔗 订阅管理浏览器插件版本](https://github.com/ccxyChuzhong/kaidao-browser-plugin)
+![javascript](https://img.shields.io/badge/-javascript-3776AB?logo=javascript&logoColor=white)
+![html](https://img.shields.io/badge/html-h5-red?logo=html&logoColor=white)
+![WebDav](https://img.shields.io/badge/-WebDav-010101?logo=WebDav)
+### ✨✨✨一个功能强大的浏览器扩展，用于通过 WebDAV 管理 V2Ray Clash 订阅信息。支持多种代理协议，提供友好的用户界面和丰富的管理功能。
+
+### [🚀 AppVault - 智能应用管理器](https://github.com/ccxyChuzhong/AppVault)
+![Dart](https://img.shields.io/badge/-Dart-61DAFB?logo=dart&logoColor=black)
+### AppVault 是一款专为Android设计的智能应用管理器，提供强大的应用隐藏功能和完善的恢复机制。无论您是想保护隐私、整理桌面，还是需要专业的应用管理工具，AppVault都能满足您的需求。
